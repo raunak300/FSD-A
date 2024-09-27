@@ -1,0 +1,10 @@
+#heading{
+    text-align: center;
+    background-color: rgb(255, 176, 74);
+    color: rgb(253, 255, 112);
+    font-size: 40px;
+}
+table{
+    width: 100%;
+    background-color: bisque;
+}
