@@ -1,3 +1,15 @@
 body{
-    background-color:pink ;
+    background-color:rgb(195, 192, 255) ;
+}
+table{
+    background-color: rgb(195, 192, 255);
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style: groove;
+    border-width: 3px;
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    color: black;
 }
