@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.image{
+    height: 80px;
+    width: 80px;
+}
+#header{
+    display: flex;
+}
+.list{
+    display: flex;
+    text-decoration: none;
+    
+}
