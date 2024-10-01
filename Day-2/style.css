@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.fitems{
+    width:100px;
+    height: 100px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+    font-size:20px;
+    border: 10px solid black;
+    border-radius: 10px;
+    border-style: double;
+}
+.fcontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    align-content:center;
+    justify-content: center;
+}
+#item1{
+    order: -3;
+}
